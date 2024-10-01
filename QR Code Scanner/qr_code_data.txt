@@ -1,0 +1,12 @@
+2024-10-01 17:50:50:     {
+        "accountNumber": "11910017501443",
+        "accountName": "DILLI HANG RAI",
+        "bankCode": "NARBNPKA",
+        "bankCodeCIPS": "0401"
+    }
+2024-10-01 17:50:59:     {
+        "accountNumber": "11910017501443",
+        "accountName": "DILLI HANG RAI",
+        "bankCode": "NARBNPKA",
+        "bankCodeCIPS": "0401"
+    }
