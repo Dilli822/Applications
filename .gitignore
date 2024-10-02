@@ -1,1 +1,9 @@
 env
+
+*.jpg
+*.txt
+*.pdf
+*.docx
+*.png
+*.webp
+*.jpeg
